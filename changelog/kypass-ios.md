@@ -16,6 +16,8 @@
 
 * Autofill function is back for ios12 users
 * Fix box.com sync
+* Fix size display for local files
+* Fix large file \(&gt;4mb\) upload with MSGraph
 
 ## 5.2 - 2020-04-19
 
