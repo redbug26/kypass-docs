@@ -17,6 +17,7 @@
   * [WebDAV](kypass-handbook/supported-cloud-provider/webdav.md)
   * [SFTP](kypass-handbook/supported-cloud-provider/sftp.md)
 * [Features](kypass-handbook/features/README.md)
+  * [test 2](kypass-handbook/features/test-2.md)
   * [QRCode](kypass-handbook/features/qrcode.md)
   * [OTP](kypass-handbook/features/otp.md)
   * [Touch ID / Face ID / PIN](kypass-handbook/features/touch-id.md)
