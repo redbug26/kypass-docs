@@ -6,7 +6,6 @@
 
 ## KyPass iOS Handbook <a id="kypass-handbook"></a>
 
-* [Draft](kypass-handbook/untitled.md)
 * [Supported cloud provider](kypass-handbook/supported-cloud-provider/README.md)
   * [iCloud](kypass-handbook/supported-cloud-provider/icloud.md)
   * [Dropbox](kypass-handbook/supported-cloud-provider/dropbox.md)
@@ -26,7 +25,7 @@
 
 ## KyPass macOS Handbook
 
-* [Untitled](kypass-macos-handbook/untitled.md)
+* [Introduction](kypass-macos-handbook/untitled.md)
 
 ## FAQ
 

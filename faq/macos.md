@@ -1,12 +1,10 @@
 # macOS
 
-## Can I become who I want to be?
+## Does KyPass for macOS support Cloud Provider?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Yes.. and no. 
 
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Unlike the iOS version, KyPass for macOS doesn't have internal cloud synchronisation mechanism. It  can only open local file database and thus needs that external applications synchronize your databases.
 
 
 
