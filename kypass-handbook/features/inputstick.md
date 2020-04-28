@@ -1,2 +1,3 @@
 # InputStick
 
+It's cool !
