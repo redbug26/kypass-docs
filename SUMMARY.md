@@ -22,10 +22,17 @@
   * [References](kypass-handbook/features/references.md)
   * [Autofill extension](kypass-handbook/features/autofill-extension.md)
   * [InputStick](kypass-handbook/features/inputstick.md)
+* [Tips](kypass-handbook/tips/README.md)
+  * [URI Schemes](kypass-handbook/tips/uri-schemes.md)
 
 ## KyPass macOS Handbook
 
 * [Introduction](kypass-macos-handbook/untitled.md)
+* [Tips](kypass-macos-handbook/tips-1/README.md)
+  * [The Magic Combo](kypass-macos-handbook/tips-1/the-magic-combo.md)
+  * [Automatic import](kypass-macos-handbook/tips-1/automatic-import.md)
+
+## Tips
 
 ## FAQ
 
