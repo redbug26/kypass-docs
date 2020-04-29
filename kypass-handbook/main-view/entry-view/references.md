@@ -4,5 +4,5 @@ KyPass support field refrences as described on the [KeePass website](https://kee
 
 You could also use the builder via the "Tools/Insert Field Reference" menu
 
-![](../../.gitbook/assets/image%20%283%29.jpeg)
+![](../../../.gitbook/assets/image%20%283%29.jpeg)
 

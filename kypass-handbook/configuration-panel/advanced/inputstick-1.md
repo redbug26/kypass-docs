@@ -4,7 +4,15 @@
 
 Since v4.5, KyPass support the copy/paste of password directly to your desktop via inputStick.
 
-![](../../.gitbook/assets/image%20%283%29.png)
+## Enable
+
+Enable the support of the Inputstick
+
+## InputStick Menu
+
+Display the official Inputstick menu
+
+![](../../../.gitbook/assets/image%20%284%29.png)
 
 
 
