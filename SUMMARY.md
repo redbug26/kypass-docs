@@ -12,6 +12,7 @@
   * [Entry view](kypass-handbook/main-view/entry-view/README.md)
     * [References](kypass-handbook/main-view/entry-view/references.md)
     * [QRCode](kypass-handbook/main-view/entry-view/qrcode.md)
+    * [Attachments](kypass-handbook/main-view/entry-view/attachments.md)
     * [OTP](kypass-handbook/main-view/entry-view/otp.md)
 * [Configuration panel](kypass-handbook/configuration-panel/README.md)
   * [GUI](kypass-handbook/configuration-panel/gui.md)
