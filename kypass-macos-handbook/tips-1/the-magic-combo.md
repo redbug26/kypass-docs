@@ -8,7 +8,7 @@ It allows you to quickly open a website you have saved in KyPass Companion or ev
 
 It’s a big time-saver for me.
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 Obviously, you could change the shortcut but you understand the main idea.
 
