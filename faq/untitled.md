@@ -2,9 +2,13 @@
 
 ## I see on your website that keyfile are supported. How could use it?
 
-Key file need to be sent to KyPass via iTunes file sharing or via ‘Upload from desktop’. For security reason, Dropbox is not supported.
+Key file could be sent to KyPass:
 
-The filename have to be the name of your database followed by .key: if your database is database.kdb, the key filename is database.kdb.key
+* via iTunes file sharing,
+* via ‘Upload from desktop’.
+* or via synchronisation \(but for security reason, it's not advisable\).
+
+The extension of your keyfiles could be change in the configuration panel.
 
 
 
