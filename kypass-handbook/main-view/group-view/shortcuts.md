@@ -31,5 +31,5 @@ The shortcut display all entries where the password bits &lt; 64
 
 All entries that are flagged as favorite \(slide on an entry to set it and select the hearth\)
 
-![Flag favorite](../../../.gitbook/assets/image%20%285%29.jpeg)
+![Flag favorite](../../../.gitbook/assets/image%20%286%29.jpeg)
 

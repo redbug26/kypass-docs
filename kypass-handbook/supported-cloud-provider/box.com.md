@@ -2,5 +2,5 @@
 
 To synchronize with Box.com, press the cloud icon and select the 'Use Box' checkbox.
 
-![Cloud provider page](../../.gitbook/assets/image%20%286%29.png)
+![Cloud provider page](../../.gitbook/assets/image%20%287%29.png)
 

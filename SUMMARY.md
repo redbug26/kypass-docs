@@ -6,7 +6,7 @@
 
 ## KyPass iOS Handbook <a id="kypass-handbook"></a>
 
-* [Main view](kypass-handbook/main-view/README.md)
+* [Database view](kypass-handbook/main-view/README.md)
   * [Group view](kypass-handbook/main-view/group-view/README.md)
     * [Shortcuts](kypass-handbook/main-view/group-view/shortcuts.md)
   * [Entry view](kypass-handbook/main-view/entry-view/README.md)

@@ -9,7 +9,7 @@ KyPass allow you to bypass your password via
 Be warned that the main password of the database is saved in the KyPass vault. The password is not available in the iPhone keychain and thus couldn't be recovered by you \(except if you are a hacker\)
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%286%29.jpeg)
+![](../../.gitbook/assets/image%20%287%29.jpeg)
 
 
 
