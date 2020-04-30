@@ -27,3 +27,5 @@ The task is now created.
 
 Each time you want to run again the task, go in View/Display task list and select the task you want to run.
 
+{% file src="../../.gitbook/assets/sample.csv" caption="Sample file" %}
+
