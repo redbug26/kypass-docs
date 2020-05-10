@@ -19,6 +19,7 @@
 * Fix size display for local files
 * Fix large file \(&gt;4mb\) upload with MSGraph
 * Digits argument is now supported in OTP uri
+* Fix the UIViewcontroller bug \(when the use shortcut option was not set\)
 
 ## 5.2 - 2020-04-19
 
