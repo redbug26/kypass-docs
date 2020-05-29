@@ -1,6 +1,6 @@
 # KyPass \(iOS\)
 
-## 5.3 - In development
+## 5.3 - 2020-05-29
 
 #### Added
 
