@@ -1,14 +1,16 @@
 # KyPass \(iOS\)
 
-## 5.4 - In development (available in TestFlight version)
+## 5.4 - In development \(available in TestFlight version\)
 
-#### Added
+### Added
 
-#### Fixed
+### Fixed
+
+* Don't remove PIN code after a valid touch/face ID.
 
 ## 5.3 - 2020-05-29
 
-#### Added
+### Added
 
 * Year is now selectable in expiration date
 * Added count in shortcuts section
@@ -18,7 +20,7 @@
 * Added database title in the bottom bar
 * Allow certificates in O365 login
 
-#### Fixed
+### Fixed
 
 * Autofill function is back for ios12 users
 * Fix box.com sync
@@ -29,59 +31,59 @@
 
 ## 5.2 - 2020-04-19
 
-#### **Fixed**
+### **Fixed**
 
 * Fix Dropbox sync
 
 ## 5.1 - 2020-04-18
 
-#### Added
+### Added
 
 * Improve password generator
 * O365 support rewriting
 
-#### **Fixed**
+### **Fixed**
 
 * Fix autofill function
 
 ## 5.0 - 2020-03-09
 
-#### Added
+### Added
 
 * Dark mode support
 * Remove folder change in quick view
 * Added reveal password button in the master password view
 
-#### **Fixed**
+### **Fixed**
 
 * Fix O365 default folder creation
 
 ## **4.5.3** - 2019-09-10
 
-#### Added
+### Added
 
 * Added personnalisation for the AutoFill QuickType bar cache
 * Added Quick view in search panel
 * Revamp synchronisation panel
 * Added Shortcut list by default \(out of beta\)
 
-#### **Fixed**
+### **Fixed**
 
 * Fix magnified password change when OTP changes
 
 ## **4.5.2 - 2019-04-10**
 
-#### Added
+### Added
 
 * Added support to the AutoFill QuickType bar
 
 ## **4.5.1 - 2019-03-31**
 
-#### Added
+### Added
 
 * Edition is working again with kdb v1.x file
 
-#### **Fixed**
+### **Fixed**
 
 * Fix UI bug in file view on iOS&lt;11.0
 * Fix msgraph \(and sftp\) bug when user is offline \(files are not removed anymore\)
@@ -89,7 +91,7 @@
 
 ## **4.5.0 - 2019-03-22**
 
-#### Added
+### Added
 
 * Refreshing UI
 * New file view
@@ -99,7 +101,7 @@
 
 ## **4.4.3 - 2018-10-21**
 
-#### **Fixed**
+### **Fixed**
 
 * Fix internal browser for iPhone X and later
 * Fix bluetooth popup at start
@@ -107,11 +109,11 @@
 
 ## **4.4.2 - 2018-10-04**
 
-#### Added
+### Added
 
 * Allow password to be copied in clipboard from password generator
 
-#### **Fixed**
+### **Fixed**
 
 * Fix the autocapitalize of the title field
 * Fix creation\(modification\) date when create\(modify\) entry
@@ -119,7 +121,7 @@
 
 ## **4.4.1 - 2018-09-21**
 
-#### **Fixed**
+### **Fixed**
 
 * Fix language in old autofill extension
 * Fix paste of {REF} field in autofill extension
@@ -127,26 +129,26 @@
 
 ## **4.4.0 - 2018-09-18**
 
-#### **Fixed**
+### **Fixed**
 
 * Added autofill extension \(goto the accounts and password iOS Setting and activate Kypass support there\)
 * Passing theme option from beta to release and added the blue theme
 * Tag/keyword view \(Edit of Tags in the next release\)
 
-#### **Fixed**
+### **Fixed**
 
 * Fix a webdav bug
 * Fix alignement of editable cell in configuration form
 
 ## **4.3.2 - 2018-06-03**
 
-#### **Fixed**
+### **Fixed**
 
 * Fix FaceID bug
 
 ## **4.3.1 - 2018-05-28**
 
-#### Added
+### Added
 
 * Added custom extension synchronisation
 * New tools menu \(in group form\) with password generator \(more to come\)
@@ -155,14 +157,14 @@
 * Added time in the expiration time field
 * SSH: added the pipe key
 
-#### **Fixed**
+### **Fixed**
 
 * Fixed background color of the navigator in preview attachment
 * Fix « open in » menu
 
 ## **4.3.0 - 2018-04-24**
 
-#### Added
+### Added
 
 * Added OneDrive Enterprise \(msgraph\) as sync
 * Show shared folder in OneDrive
@@ -170,24 +172,24 @@
 * Add Hide expired entries in search as beta feature
 * Add backup as a beta feature
 
-#### **Fixed**
+### **Fixed**
 
 * Fix a bug in WebDav sync when device is offline
 
 ## **4.2.1 - 2017-12-19**
 
-#### Added
+### Added
 
 * New chinese translation \(thanks to Licong Liu\)
 
-#### **Fixed**
+### **Fixed**
 
 * Fix attachments view
 * Fix a bug when you cancel the pincode/faceid/touchid window when returning to KyPass
 
 ## **4.2 - 2017-11-29**
 
-#### Added
+### Added
 
 * OneDrive is now supported as cloud provder
 * Display information instead of Empty screens in file view, group view & entry view
@@ -206,14 +208,14 @@
 * New webdav username/password bug fixed
 * Flat icon in entry list
 
-#### **Fixed**
+### **Fixed**
 
 * Fix copy/paste in ssh
 * Dropbox: sync now works with database in the root folder.
 
 ## **4.1.1 - 2017-10-20**
 
-#### Added
+### Added
 
 * Capture QR Code now save database immediately
 * Added option to clear search at start
@@ -236,7 +238,7 @@
 * Key file could be used with any cloud provider
 * Folder selection in cloud provider
 
-#### **Fixed**
+### **Fixed**
 
 * Fix key file with that are 64 bytes long without hexadecimal content
 * Fixed bug in the tools menu

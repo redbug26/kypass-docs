@@ -46,8 +46,6 @@
   * [The Magic Combo](kypass-macos-handbook/tips-1/the-magic-combo.md)
   * [Automatic import](kypass-macos-handbook/tips-1/automatic-import.md)
 
-## Tips
-
 ## FAQ
 
 * [iOS](faq/untitled.md)
