@@ -1,12 +1,22 @@
 # KyPass \(iOS\)
 
-## 5.4 - In development \(available in TestFlight version\)
+## 5.5 - In development \(available in TestFlight version\)
 
 ### Added
 
 ### Fixed
 
+## 5.4 - 2020-09-21
+
+### Added
+
+* Improve start speed
+
+### Fixed
+
 * Don't remove PIN code after a valid touch/face ID.
+* Fix pin check when use face id
+* Removed all the ASIHTTPRequest call that hang on ios14.2beta
 
 ## 5.3 - 2020-05-29
 
